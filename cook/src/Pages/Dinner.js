@@ -3,14 +3,15 @@ import Navbar from '../Components/Navbar/Navbar'
 import Jumbotron from '../Components/Jumbotron/Jumbotron'
 import '../Components/Navbar/navbar.css'
 
-function Home() {
+function Dinner() {
   return (
     <>
+    
     <Navbar />
-    <Jumbotron />
+  <h1>Dinner</h1>
     </>
   )
 
 }
 
-export default Home
+export default Dinner

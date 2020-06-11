@@ -1,0 +1,10 @@
+#navbarNav{
+    text-align:right;
+}
+body{
+    background: red;
+}
+h1{
+    text-align:center;
+    border-bottom:2px black dotted;
+}

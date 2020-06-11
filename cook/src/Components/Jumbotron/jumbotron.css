@@ -1,0 +1,14 @@
+
+.container{
+    text-align:center;
+    padding:5%;
+    
+} 
+
+  
+.box{
+    background: lightblue url(../../Images/bg.png) no-repeat fixed center; 
+    border:1px solid black;
+    color:whitesmoke;
+    
+}

@@ -1,16 +1,18 @@
+
 import React from 'react'
 import Navbar from '../Components/Navbar/Navbar'
 import Jumbotron from '../Components/Jumbotron/Jumbotron'
 import '../Components/Navbar/navbar.css'
 
-function Home() {
+function Starters() {
   return (
     <>
+    
     <Navbar />
-    <Jumbotron />
+<h1>Starters</h1>
     </>
   )
 
 }
 
-export default Home
+export default Starters
